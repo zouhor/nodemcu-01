@@ -24,3 +24,5 @@ Här är ett enkelt exempel på ett Blink-program som tänder och släcker den i
 
 ## Bild
 Här är en bild på en NodeMCU-modul så att du ser hur den ser ut:
+![IMG_4097](https://github.com/user-attachments/assets/93a8a377-b859-4e74-b324-8b8f3a662e2e)
+
